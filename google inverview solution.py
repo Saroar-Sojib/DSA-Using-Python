@@ -30,7 +30,7 @@ def Solution(input_list,s1,x):
             return input_list
             break
       side+=1 
-input_list = [3,3,2,3,4,5]
+input_list = [3,3,2,2,4,5]
 s=2
 x=4
 print(Solution(input_list,s,x))
